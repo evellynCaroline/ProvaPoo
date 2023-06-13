@@ -1,0 +1,11 @@
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\bin\Debug\ProvaPoo.exe.config
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\bin\Debug\ProvaPoo.exe
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\bin\Debug\ProvaPoo.pdb
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\obj\Debug\ProvaPoo.csproj.AssemblyReference.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\obj\Debug\ProvaPoo.correcao.resources
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\obj\Debug\ProvaPoo.Form1.resources
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\obj\Debug\ProvaPoo.Properties.Resources.resources
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\obj\Debug\ProvaPoo.csproj.GenerateResource.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\obj\Debug\ProvaPoo.csproj.CoreCompileInputs.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\obj\Debug\ProvaPoo.exe
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\ProvaPoo\obj\Debug\ProvaPoo.pdb
