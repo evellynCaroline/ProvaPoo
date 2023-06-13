@@ -39,8 +39,8 @@
             this.txt_questao7 = new System.Windows.Forms.TextBox();
             this.txt_questao6 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.lb_totale = new System.Windows.Forms.Label();
+            this.lb_totalR = new System.Windows.Forms.Label();
             this.bt_avaliar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -124,24 +124,24 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "Gabarito";
             // 
-            // label2
+            // lb_totale
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(79, 445);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(258, 25);
-            this.label2.TabIndex = 11;
-            this.label2.Text = "Seu Total de acerto foi..........";
+            this.lb_totale.AutoSize = true;
+            this.lb_totale.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_totale.Location = new System.Drawing.Point(67, 438);
+            this.lb_totale.Name = "lb_totale";
+            this.lb_totale.Size = new System.Drawing.Size(258, 25);
+            this.lb_totale.TabIndex = 11;
+            this.lb_totale.Text = "Seu Total de acerto foi..........";
             // 
-            // label3
+            // lb_totalR
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(289, 445);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(19, 16);
-            this.label3.TabIndex = 12;
-            this.label3.Text = "!!!!";
+            this.lb_totalR.AutoSize = true;
+            this.lb_totalR.Location = new System.Drawing.Point(289, 438);
+            this.lb_totalR.Name = "lb_totalR";
+            this.lb_totalR.Size = new System.Drawing.Size(19, 16);
+            this.lb_totalR.TabIndex = 12;
+            this.lb_totalR.Text = "!!!!";
             // 
             // bt_avaliar
             // 
@@ -159,8 +159,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(495, 503);
             this.Controls.Add(this.bt_avaliar);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.lb_totalR);
+            this.Controls.Add(this.lb_totale);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txt_questao10);
             this.Controls.Add(this.txt_questao9);
@@ -192,8 +192,8 @@
         private System.Windows.Forms.TextBox txt_questao7;
         private System.Windows.Forms.TextBox txt_questao6;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lb_totale;
+        private System.Windows.Forms.Label lb_totalR;
         private System.Windows.Forms.Button bt_avaliar;
     }
 }
